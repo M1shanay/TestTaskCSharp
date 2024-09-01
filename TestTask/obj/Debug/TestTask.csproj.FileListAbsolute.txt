@@ -1,0 +1,13 @@
+E:\Projects\TestTask\TestTask\bin\Debug\TestTask.exe.config
+E:\Projects\TestTask\TestTask\bin\Debug\TestTask.exe
+E:\Projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+E:\Projects\TestTask\TestTask\bin\Debug\LiteDB.dll
+E:\Projects\TestTask\TestTask\bin\Debug\System.Buffers.dll
+E:\Projects\TestTask\TestTask\bin\Debug\LiteDB.xml
+E:\Projects\TestTask\TestTask\bin\Debug\System.Buffers.xml
+E:\Projects\TestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+E:\Projects\TestTask\TestTask\obj\Debug\TestTask.csproj.SuggestedBindingRedirects.cache
+E:\Projects\TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+E:\Projects\TestTask\TestTask\obj\Debug\TestTask.csproj.CopyComplete
+E:\Projects\TestTask\TestTask\obj\Debug\TestTask.exe
+E:\Projects\TestTask\TestTask\obj\Debug\TestTask.pdb
