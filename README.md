@@ -1,2 +1,1 @@
-Build in TestTask/bin/Release
-Default database has one entry administrator account with "admin" "admin" login/password
+<p>Build in TestTask/bin/Release<br />Default database has one entry administrator account with <strong>"admin" "admin"</strong> login/password</p>
